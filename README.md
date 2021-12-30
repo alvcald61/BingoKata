@@ -1,5 +1,7 @@
 # BingoKata
 ***
+    Para ejecutar el index.js usar: npm start 
+    Para ejecutar los test usar:  npm test
 # Clases 
 
 ### BingoCaller 
